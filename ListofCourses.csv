@@ -1,0 +1,9 @@
+﻿CourseTitle,CourseID,Prerequisite,Description
+CSCI100,100,None,Intro to Comp Sci
+CSCI101,101,CSCI100,Intro to Programming
+CSCI200,200,CSCI101,Data Structures and Algorithms
+MATH201,201,None,Discrete Mathematics
+CSCI300,300,"CSCI20, MATH201",Analysis and Design
+CSCI305,305,CSCI101,Cybersecurity
+CSCI350,350,CSCI300,Operating Systems
+CSCI60,360,"CSCI301, CSCI350",Mobile App Development
